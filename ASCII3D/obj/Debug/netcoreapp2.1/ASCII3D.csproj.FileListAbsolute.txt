@@ -1,0 +1,11 @@
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\obj\Debug\netcoreapp2.1\ASCII3D.csprojAssemblyReference.cache
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\obj\Debug\netcoreapp2.1\ASCII3D.csproj.CoreCompileInputs.cache
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\obj\Debug\netcoreapp2.1\ASCII3D.AssemblyInfoInputs.cache
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\obj\Debug\netcoreapp2.1\ASCII3D.AssemblyInfo.cs
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\bin\Debug\netcoreapp2.1\ASCII3D.deps.json
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\bin\Debug\netcoreapp2.1\ASCII3D.runtimeconfig.json
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\bin\Debug\netcoreapp2.1\ASCII3D.runtimeconfig.dev.json
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\bin\Debug\netcoreapp2.1\ASCII3D.dll
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\bin\Debug\netcoreapp2.1\ASCII3D.pdb
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\obj\Debug\netcoreapp2.1\ASCII3D.dll
+C:\Users\GabrielGuaitolini-BD\source\repos\ASCII3D\ASCII3D\obj\Debug\netcoreapp2.1\ASCII3D.pdb
